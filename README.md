@@ -1,14 +1,15 @@
-### Hi there 👋, Reuben Omaano Tetteh
-#### FullStack Developer
-![FullStack Developer](https://images.unsplash.com/photo-1542831371-29b0f74f9713?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+### Hi there 👋, my name is Reuben Omaano Tetteh
+#### Design & Development
+![Design & Development](https://pbs.twimg.com/profile_banners/3387988721/1701818491/600x200)
 
 A passionate full-stack developer base in Romania. My journey in the world of coding is fueled by a love for both elegant designs and robust development..
 
-Skills: NODEJS/JAVASCRIPT / MYSQL  / REACT / JS / HTML / CSS
+Skills: NODE JS/ JAVASCRIPT/MYSQL / REACT / JS / HTML / CSS
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/reuben-omaano-tetteh//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://reuben-omaano-tetteh.vercel.app/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/reuben-omaano-tetteh//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://instagram.com/rkot9?igshid=YTQwZjQ0NmI0OA%3D%3D&utm_source=qr/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/rkot_9)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://reuben-omaano-tetteh.vercel.app/)  
+
 
 
 
