@@ -8,6 +8,7 @@
 - 🤝 I’m looking to collaborate and improve 
 - 👮‍♂️ Formally a SWAT officer
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rkotchamp)](https://github.com/anuraghazra/github-readme-stats)
 
 
 #### Linkedin address: https://www.linkedin.com/in/reuben-omaano-tetteh/
