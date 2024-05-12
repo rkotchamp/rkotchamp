@@ -1,9 +1,8 @@
-<h1 align="center">Hi , I'm Reuben</h1><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGI4MnVrMXR0bHJlanc1MWZqbmczN3RhcTNwbmh0cTJsMW91enJmMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/06vbLCWUQcDKGFVjPt/giphy.gif" alt="my thumbnail"/>
+<h1 align="center">Hi , I'm Reuben</h1><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGI4MnVrMXR0bHJlanc1MWZqbmczN3RhcTNwbmh0cTJsMW91enJmMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/06vbLCWUQcDKGFVjPt/giphy.gif" alt="my thumbnail" height="100" width="100"/>
 
-<h1 align="center">Hi , I'm Reuben</h1>
 <h3 align="center">A passionate fullstack developer from Romania</h3>
 
-- 👨‍💻 All of my projects are available at [https://reuben-omaano-tetteh.vercel.app/](https://reuben-omaano-tetteh.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://reuben omaano Tetteh.com/]([https://reuben-omaano-tetteh.vercel.app/](https://www.reubenomaanotetteh.com/))
 
 - 📫 How to reach me **reubenomaano.tetteh@gmail.com**
 
