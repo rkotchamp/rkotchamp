@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate fullstack developer from Romania</h3>
 
-- 👨‍💻 All of my projects are available at [https://reuben omaano Tetteh.com/]([https://reuben-omaano-tetteh.vercel.app/](https://www.reubenomaanotetteh.com/))
+- 👨‍💻 All of my projects are available at [https://reuben omaano Tetteh.com/]((https://www.reubenomaanotetteh.com/))
 
 - 📫 How to reach me **reubenomaano.tetteh@gmail.com**
 
