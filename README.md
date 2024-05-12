@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D4D16AQH5OxKcdGS8zw/profile-displaybackgroundimage-shrink_350_1400/0/1701818541113?e=1707955200&v=beta&t=Sp40Gy5SkJfjEqn7EU4ZsOKkw8dox116VSWGEyXxRkc" alt="my thumbnail"/>
+<img src="[https://media.licdn.com/dms/image/D4D16AQH5OxKcdGS8zw/profile-displaybackgroundimage-shrink_350_1400/0/1701818541113?e=1707955200&v=beta&t=Sp40Gy5SkJfjEqn7EU4ZsOKkw8dox116VSWGEyXxRkc](https://www.linkedin.com/in/reuben-omaano-tetteh-948346183/overlay/background-image/)" alt="my thumbnail"/>
 
 <h1 align="center">Hi , I'm Reuben</h1>
 <h3 align="center">A passionate fullstack developer from Romania</h3>
