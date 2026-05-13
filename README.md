@@ -14,9 +14,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rkotchamp&show_icons=true&locale=en" alt="rkotchamp" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rkotchamp&" alt="rkotchamp" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rkotchamp&label=Profile%20views&color=0e75b6&style=flat" alt="rkotchamp" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rkotchamp" alt="rkotchamp" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/rkot_9" target="blank"><img src="https://img.shields.io/twitter/follow/rkot_9?logo=twitter&style=for-the-badge" alt="rkot_9" /></a> </p>
